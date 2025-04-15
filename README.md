@@ -147,7 +147,6 @@ final anotherResponse = await woocommerce.get(endpoint);
 ## Issues and FeedBack
 If you find this useful :blue_heart:, feel free to click :star:
 You can create a Github issue anytime. Pull requests on both code and documentation are welcomed as well pls :heart_eyes:.
-You can also send a mail to ray@flutterengineer.com.
 
 For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
